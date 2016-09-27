@@ -1,0 +1,200 @@
+{
+  "basics": {
+    "email": "alexander.matsievsky@gmx.com",
+    "label": "Web Developer",
+    "location": {
+      "address": "Azovskaya str., bld. 24",
+      "city": "Moscow",
+      "countryCode": "RU",
+      "postalCode": "117452"
+    },
+    "name": "Alexander Matsievsky",
+    "phone": "+7 (925) 311-3856",
+    "picture": "https://raw.githubusercontent.com/alexander-matsievsky/resume/master/photo.jpg",
+    "profiles": [
+      {
+        "network": "Floobits",
+        "url": "https://floobits.com/alexander-matsievsky",
+        "username": "alexander-matsievsky"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/alexander-matsievsky",
+        "username": "alexander-matsievsky"
+      },
+      {
+        "network": "Skype",
+        "url": "skype:matsievskyav",
+        "username": "matsievskyav"
+      },
+      {
+        "network": "Telegram",
+        "url": "https://t.me/alexander_matsievsky",
+        "username": "alexander_matsievsky"
+      }
+    ],
+    "summary": "I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned full-stack web developer who've acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin."
+  },
+  "education": [
+    {
+      "area": "Applied Mathematics and Informatics",
+      "endDate": "2011-06-01",
+      "institution": "National Research Nuclear University",
+      "startDate": "2006-06-01",
+      "studyType": "Specialist"
+    },
+    {
+      "area": "System Analysis and Management",
+      "endDate": "2013-06-01",
+      "institution": "National Research Nuclear University",
+      "startDate": "2010-06-01",
+      "studyType": "Specialist"
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "Julia",
+        "PyData"
+      ],
+      "name": "Short-term"
+    },
+    {
+      "keywords": [
+        "Data visualization",
+        "Graph computing",
+        "Stream processing"
+      ],
+      "name": "Mid-term"
+    },
+    {
+      "keywords": [
+        "FPGA",
+        "Quantum computing",
+        "Semantic Web"
+      ],
+      "name": "Long-term"
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Full professional proficiency",
+      "language": "English"
+    },
+    {
+      "fluency": "Native speaker",
+      "language": "Russian"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Node.js",
+        "Python",
+        "Swagger",
+        "TypeScript"
+      ],
+      "name": "Back-end"
+    },
+    {
+      "keywords": [
+        "Neo4j",
+        "PostgreSQL",
+        "RethinkDB"
+      ],
+      "name": "Databases"
+    },
+    {
+      "keywords": [
+        "Angular",
+        "D3",
+        "Polymer",
+        "React"
+      ],
+      "name": "Front-end"
+    },
+    {
+      "keywords": [
+        "Google Cloud Platform"
+      ],
+      "name": "Cloud"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "Kubernetes"
+      ],
+      "name": "Containers"
+    },
+    {
+      "keywords": [
+        "Concourse",
+        "Travis"
+      ],
+      "name": "Continuous Delivery"
+    }
+  ],
+  "work": [
+    {
+      "company": "Amperka",
+      "highlights": [
+        "Work on xod.io – a visual programming language for microcontrollers",
+        "Rule over the entire back-end of the project",
+        "Cloud-native microservices and REST APIs",
+        "Cluster-wide CI/CD pipelines"
+      ],
+      "position": "Back-end developer",
+      "startDate": "2017-02-01",
+      "summary": "Amperka is a company that helps beginners and non-professionals create their own electronic devices.",
+      "website": "http://amperka.ru"
+    },
+    {
+      "company": "Grabr",
+      "endDate": "2017-01-01",
+      "highlights": [
+        "Maintained and developed an SSR SPA serving 100K MAU worldwide",
+        "Introduced Babel and PostCSS AST processing for the development pipeline"
+      ],
+      "position": "Front-end developer",
+      "startDate": "2016-01-01",
+      "summary": "A trusted peer-to-peer community marketplace connecting shoppers and travelers all around the world.",
+      "website": "https://grabr.io"
+    },
+    {
+      "company": "RCNTEC",
+      "endDate": "2015-12-01",
+      "highlights": [
+        "Worked on an internal enterprise infrastructure management dashboard",
+        "Single-handedly designed and implemented back- and front-end components",
+        "Introduced containerization"
+      ],
+      "position": "Full-stack developer",
+      "startDate": "2014-03-01",
+      "summary": "RCNTEC ensures operation of telecommunication networks and information systems and helps hundreds of thousands of people all over the world work effectively.",
+      "website": "http://rcntec.com"
+    },
+    {
+      "company": "Bookmate",
+      "endDate": "2014-01-01",
+      "highlights": [
+        "Developed and optimized an EPUB-reader SPA serving 700K MAU worldwide"
+      ],
+      "position": "Front-end developer",
+      "startDate": "2013-06-01",
+      "summary": "Bookmate is a subscription based e-book service that makes reading accessible to anyone in the world with a mobile phone.",
+      "website": "https://bookmate.com"
+    },
+    {
+      "company": "Gridnine Systems",
+      "endDate": "2013-06-01",
+      "highlights": [
+        "Worked on pososhok.ru, one of the major Russian airline sales sites as a junior front-end developer",
+        "Automated bulk JSP i18n with Python-based pipeline"
+      ],
+      "position": "Front-end developer",
+      "startDate": "2011-10-01",
+      "summary": "Gridnine Systems is an IT consultancy providing software development, internet solutions and IT services.",
+      "website": "http://gridnine.com"
+    }
+  ]
+}
