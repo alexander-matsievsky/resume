@@ -2,12 +2,9 @@ const fs = require('fs')
 const resume = require('./resume.json')
 
 function formatDates (object) {
-  const format = new Intl.DateTimeFormat('en-US',
-    {month: 'short', year: 'numeric'})
-  if (object.startDate)
-    object.startDate = format.format(new Date(object.startDate))
-  if (object.endDate)
-    object.endDate = format.format(new Date(object.endDate))
+  const format = new Intl.DateTimeFormat('en-US', { month: 'short', year: 'numeric' })
+  if (object.startDate) { object.startDate = format.format(new Date(object.startDate)) }
+  if (object.endDate) { object.endDate = format.format(new Date(object.endDate)) }
 }
 
 resume.education.forEach(formatDates)

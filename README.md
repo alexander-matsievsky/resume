@@ -1,5 +1,5 @@
-[[HTML version]](https://cdn.rawgit.com/alexander-matsievsky/resume/2bf3da4b74cfe176d548aed70de4cb220bd6e403/resume.html)
-[[PDF version]](https://cdn.rawgit.com/alexander-matsievsky/resume/2bf3da4b74cfe176d548aed70de4cb220bd6e403/resume.pdf)
+[[HTML version]](https://cdn.rawgit.com/alexander-matsievsky/resume/4662d506917221f862ee341687b21e9347a183fc/resume.html)
+[[PDF version]](https://cdn.rawgit.com/alexander-matsievsky/resume/4662d506917221f862ee341687b21e9347a183fc/resume.pdf)
 
 Alexander Matsievsky
 ====================
@@ -120,6 +120,7 @@ Specialist
 
 #### Back-end
 
+-   Go
 -   Node.js
 -   Python
 -   Swagger
@@ -135,8 +136,8 @@ Specialist
 
 -   Angular
 -   D3
--   Polymer
 -   React
+-   Vue.js
 
 #### Cloud
 
