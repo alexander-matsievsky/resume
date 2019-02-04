@@ -54,6 +54,8 @@
   "interests": [
     {
       "keywords": [
+        "Data science",
+        "Data visualization",
         "Julia",
         "PyData"
       ],
@@ -61,9 +63,9 @@
     },
     {
       "keywords": [
-        "Data visualization",
         "Graph computing",
-        "Stream processing"
+        "Stream processing",
+        "Rust"
       ],
       "name": "Mid-term"
     },
@@ -71,7 +73,8 @@
       "keywords": [
         "FPGA",
         "Quantum computing",
-        "Semantic Web"
+        "Semantic web",
+        "Visual programming"
       ],
       "name": "Long-term"
     }
@@ -89,7 +92,6 @@
   "skills": [
     {
       "keywords": [
-        "Go",
         "Node.js",
         "Python",
         "Swagger",
@@ -99,6 +101,7 @@
     },
     {
       "keywords": [
+        "Elastic Search",
         "Neo4j",
         "PostgreSQL",
         "RethinkDB"
@@ -107,7 +110,6 @@
     },
     {
       "keywords": [
-        "Angular",
         "D3",
         "React",
         "Vue.js"
@@ -129,6 +131,7 @@
     },
     {
       "keywords": [
+        "CircleCI",
         "Concourse",
         "Travis"
       ],
@@ -137,10 +140,21 @@
   ],
   "work": [
     {
-      "company": "Amperka",
+      "company": "Scrapinghub",
       "highlights": [
-        "Work on xod.io – a visual programming language for microcontrollers",
-        "Rule over the entire back-end of the project",
+        "Design, develop and maintain Scrapy web crawlers"
+      ],
+      "position": "Python developer",
+      "startDate": "2018-08-01",
+      "summary": "Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.",
+      "website": "https://scrapinghub.com"
+    },
+    {
+      "company": "Amperka",
+      "endDate": "2018-01-01",
+      "highlights": [
+        "Worked on xod.io – a visual programming language for microcontrollers",
+        "Ruled over the entire back-end of the project",
         "Cloud-native microservices and REST APIs",
         "Cluster-wide CI/CD pipelines"
       ],

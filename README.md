@@ -1,5 +1,5 @@
-[[HTML version]](https://cdn.rawgit.com/alexander-matsievsky/resume/4662d506917221f862ee341687b21e9347a183fc/resume.html)
-[[PDF version]](https://cdn.rawgit.com/alexander-matsievsky/resume/4662d506917221f862ee341687b21e9347a183fc/resume.pdf)
+[[HTML version]](./resume.html)
+[[PDF version]](./resume.pdf)
 
 Alexander Matsievsky
 ====================
@@ -35,7 +35,19 @@ I was introduced to computing by a passionate educator in high school, and never
 
 ### Work
 
-#### <span>Amperka</span> <span class="date"> Feb 2017 — </span>
+#### <span>Scrapinghub</span> <span class="date"> Aug 2018 — </span>
+
+<https://scrapinghub.com>
+
+Python developer
+
+Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.
+
+#### Highlights
+
+-   Design, develop and maintain Scrapy web crawlers
+
+#### <span>Amperka</span> <span class="date"> Feb 2017 — Jan 2018 </span>
 
 <http://amperka.ru>
 
@@ -45,8 +57,8 @@ Amperka is a company that helps beginners and non-professionals create their own
 
 #### Highlights
 
--   Work on xod.io – a visual programming language for microcontrollers
--   Rule over the entire back-end of the project
+-   Worked on xod.io – a visual programming language for microcontrollers
+-   Ruled over the entire back-end of the project
 -   Cloud-native microservices and REST APIs
 -   Cluster-wide CI/CD pipelines
 
@@ -120,7 +132,6 @@ Specialist
 
 #### Back-end
 
--   Go
 -   Node.js
 -   Python
 -   Swagger
@@ -128,13 +139,13 @@ Specialist
 
 #### Databases
 
+-   Elastic Search
 -   Neo4j
 -   PostgreSQL
 -   RethinkDB
 
 #### Front-end
 
--   Angular
 -   D3
 -   React
 -   Vue.js
@@ -150,6 +161,7 @@ Specialist
 
 #### Continuous Delivery
 
+-   CircleCI
 -   Concourse
 -   Travis
 
@@ -167,19 +179,22 @@ Native speaker
 
 #### Short-term
 
+-   Data science
+-   Data visualization
 -   Julia
 -   PyData
 
 #### Mid-term
 
--   Data visualization
 -   Graph computing
 -   Stream processing
+-   Rust
 
 #### Long-term
 
 -   FPGA
 -   Quantum computing
--   Semantic Web
+-   Semantic web
+-   Visual programming
 
 

@@ -10,9 +10,8 @@ node format-dates.js
 ./node_modules/.bin/resume export /tmp/README.html --theme=flat
 mv resume.copy.json resume.json
 
-ref="$(git show-ref -s HEAD)"
 cat - <(pandoc -f html -t markdown_github -i /tmp/README.html) <<EOF >README.md
-[[HTML version]](https://cdn.rawgit.com/alexander-matsievsky/resume/${ref}/resume.html)
-[[PDF version]](https://cdn.rawgit.com/alexander-matsievsky/resume/${ref}/resume.pdf)
+[[HTML version]](./resume.html)
+[[PDF version]](./resume.pdf)
 
 EOF
