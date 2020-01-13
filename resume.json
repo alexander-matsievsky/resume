@@ -13,24 +13,19 @@
     "picture": "https://raw.githubusercontent.com/alexander-matsievsky/resume/master/photo.jpg",
     "profiles": [
       {
-        "network": "Floobits",
-        "url": "https://floobits.com/alexander-matsievsky",
-        "username": "alexander-matsievsky"
-      },
-      {
         "network": "GitHub",
         "url": "https://github.com/alexander-matsievsky",
         "username": "alexander-matsievsky"
       },
       {
-        "network": "Skype",
-        "url": "skype:matsievskyav",
-        "username": "matsievskyav"
-      },
-      {
         "network": "Telegram",
         "url": "https://t.me/alexander_matsievsky",
         "username": "alexander_matsievsky"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/alexander-matsievsky-0193b4164",
+        "username": "Alexander Matsievsky"
       }
     ],
     "summary": "I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned full-stack web developer who've acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin."
@@ -41,31 +36,34 @@
       "endDate": "2011-06-01",
       "institution": "National Research Nuclear University",
       "startDate": "2006-06-01",
-      "studyType": "Specialist"
+      "studyType": "Specialist",
+      "_startDateFormatted": "Jun 2006",
+      "_endDateFormatted": "Jun 2011"
     },
     {
       "area": "System Analysis and Management",
       "endDate": "2013-06-01",
       "institution": "National Research Nuclear University",
       "startDate": "2010-06-01",
-      "studyType": "Specialist"
+      "studyType": "Specialist",
+      "_startDateFormatted": "Jun 2010",
+      "_endDateFormatted": "Jun 2013"
     }
   ],
   "interests": [
     {
       "keywords": [
-        "Data science",
-        "Data visualization",
-        "Julia",
+        "Data Science & Machine Learning",
+        "Data Visualization",
         "PyData"
       ],
       "name": "Short-term"
     },
     {
       "keywords": [
-        "Graph computing",
-        "Stream processing",
-        "Rust"
+        "Graph Computing",
+        "Julia",
+        "Stream Processing"
       ],
       "name": "Mid-term"
     },
@@ -97,7 +95,7 @@
         "Swagger",
         "TypeScript"
       ],
-      "name": "Back-end"
+      "name": "Back End"
     },
     {
       "keywords": [
@@ -110,11 +108,19 @@
     },
     {
       "keywords": [
+        "Vega",
+        "pandas",
+        "sklearn"
+      ],
+      "name": "Data Analysis"
+    },
+    {
+      "keywords": [
         "D3",
         "React",
         "Vue.js"
       ],
-      "name": "Front-end"
+      "name": "Front End"
     },
     {
       "keywords": [
@@ -144,72 +150,103 @@
       "highlights": [
         "Design, develop and maintain Scrapy web crawlers"
       ],
-      "position": "Python developer",
+      "position": "Python Developer",
       "startDate": "2018-08-01",
       "summary": "Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.",
-      "website": "https://scrapinghub.com"
+      "website": "https://scrapinghub.com",
+      "_startDateFormatted": "Aug 2018"
+    },
+    {
+      "company": "Mr. Shoebox",
+      "endDate": "2019-12-01",
+      "highlights": [
+        "React, Redux, Go",
+        "Developed and maintained several React SPAs for accounting",
+        "Developed and maintained Go integration microservice"
+      ],
+      "position": "Part-time Frontend Web Developer",
+      "startDate": "2018-02-01",
+      "summary": "Mr. Shoebox is a system that creates entirely new conditions for Entrepreneurs and bookkeeping agencies to communicate with each other quickly, clearly and easily.",
+      "website": "https://mrshoebox.com",
+      "_startDateFormatted": "Feb 2018",
+      "_endDateFormatted": "Dec 2019"
     },
     {
       "company": "Amperka",
       "endDate": "2018-01-01",
       "highlights": [
+        "Node.js, Swagger, Neo4j, Kubernetes, Concourse",
         "Worked on xod.io – a visual programming language for microcontrollers",
         "Ruled over the entire back-end of the project",
         "Cloud-native microservices and REST APIs",
         "Cluster-wide CI/CD pipelines"
       ],
-      "position": "Back-end developer",
+      "position": "Back End Developer",
       "startDate": "2017-02-01",
       "summary": "Amperka is a company that helps beginners and non-professionals create their own electronic devices.",
-      "website": "http://amperka.ru"
+      "website": "http://amperka.ru",
+      "_startDateFormatted": "Feb 2017",
+      "_endDateFormatted": "Jan 2018"
     },
     {
       "company": "Grabr",
       "endDate": "2017-01-01",
       "highlights": [
-        "Maintained and developed an SSR SPA serving 100K MAU worldwide",
+        "React, Redux",
+        "Developed and maintained an SSR SPA serving 100K MAU worldwide",
         "Introduced Babel and PostCSS AST processing for the development pipeline"
       ],
-      "position": "Front-end developer",
+      "position": "Frontend Web Developer",
       "startDate": "2016-01-01",
       "summary": "A trusted peer-to-peer community marketplace connecting shoppers and travelers all around the world.",
-      "website": "https://grabr.io"
+      "website": "https://grabr.io",
+      "_startDateFormatted": "Jan 2016",
+      "_endDateFormatted": "Jan 2017"
     },
     {
       "company": "RCNTEC",
       "endDate": "2015-12-01",
       "highlights": [
+        "D3.js, RxJS, OrientDB, Docker",
         "Worked on an internal enterprise infrastructure management dashboard",
         "Single-handedly designed and implemented back- and front-end components",
         "Introduced containerization"
       ],
-      "position": "Full-stack developer",
+      "position": "Full Stack Engineer",
       "startDate": "2014-03-01",
       "summary": "RCNTEC ensures operation of telecommunication networks and information systems and helps hundreds of thousands of people all over the world work effectively.",
-      "website": "http://rcntec.com"
+      "website": "http://rcntec.com",
+      "_startDateFormatted": "Mar 2014",
+      "_endDateFormatted": "Dec 2015"
     },
     {
       "company": "Bookmate",
       "endDate": "2014-01-01",
       "highlights": [
+        "Ruby on Rails, Backbone.js",
         "Developed and optimized an EPUB-reader SPA serving 700K MAU worldwide"
       ],
-      "position": "Front-end developer",
+      "position": "Frontend Web Developer",
       "startDate": "2013-06-01",
       "summary": "Bookmate is a subscription based e-book service that makes reading accessible to anyone in the world with a mobile phone.",
-      "website": "https://bookmate.com"
+      "website": "https://bookmate.com",
+      "_startDateFormatted": "Jun 2013",
+      "_endDateFormatted": "Jan 2014"
     },
     {
       "company": "Gridnine Systems",
       "endDate": "2013-06-01",
       "highlights": [
+        "Java, Backbone.js",
         "Worked on pososhok.ru, one of the major Russian airline sales sites as a junior front-end developer",
         "Automated bulk JSP i18n with Python-based pipeline"
       ],
-      "position": "Front-end developer",
+      "position": "Frontend Web Developer",
       "startDate": "2011-10-01",
       "summary": "Gridnine Systems is an IT consultancy providing software development, internet solutions and IT services.",
-      "website": "http://gridnine.com"
+      "website": "http://gridnine.com",
+      "_startDateFormatted": "Oct 2011",
+      "_endDateFormatted": "Jun 2013"
     }
   ]
 }

@@ -1,12 +1,10 @@
-const fs = require('fs')
-const resume = require('./resume.json')
-
-function formatDates (object) {
-  const format = new Intl.DateTimeFormat('en-US', { month: 'short', year: 'numeric' })
-  if (object.startDate) { object.startDate = format.format(new Date(object.startDate)) }
-  if (object.endDate) { object.endDate = format.format(new Date(object.endDate)) }
+function formatDates (record) {
+  const dateTimeFormat = new Intl.DateTimeFormat('en-US', { month: 'short', year: 'numeric' })
+  if (record.startDate) { record._startDateFormatted = dateTimeFormat.format(new Date(record.startDate)) }
+  if (record.endDate) { record._endDateFormatted = dateTimeFormat.format(new Date(record.endDate)) }
 }
 
+const resume = require('./resume.json')
 resume.education.forEach(formatDates)
 resume.work.forEach(formatDates)
-fs.writeFileSync('./resume.json', JSON.stringify(resume, null, 2))
+require('fs').writeFileSync('./resume.json', `${JSON.stringify(resume, null, 2)}\n`)

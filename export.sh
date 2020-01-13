@@ -2,15 +2,18 @@
 
 set -ex
 
-./node_modules/.bin/resume export resume.html --theme=elegant
-
-cp resume.json resume.copy.json
 node format-dates.js
-./node_modules/.bin/resume export resume.pdf --theme=paper
-./node_modules/.bin/resume export /tmp/README.html --theme=flat
-mv resume.copy.json resume.json
+sed -i \
+  -e's/{{endDate}}/{{_endDateFormatted}}/g' \
+  -e's/{{startDate}}/{{_startDateFormatted}}/g' \
+  ./node_modules/jsonresume-theme-flat/resume.template \
+  ./node_modules/jsonresume-theme-paper/resume.template
 
-cat - <(pandoc -f html -t markdown_github -i /tmp/README.html) <<EOF >README.md
+npx resume export --theme=elegant resume.html
+npx resume export --theme=flat /tmp/README.html
+npx resume export --theme=paper resume.pdf
+
+cat - <(pandoc --from=html --to=gfm /tmp/README.html) <<EOF >README.md
 [[HTML version]](./resume.html)
 [[PDF version]](./resume.pdf)
 

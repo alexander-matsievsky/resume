@@ -2,11 +2,11 @@
   "author": "Alexander Matsievsky <alexander.matsievsky@gmx.com>",
   "description": "Alexander Matsievsky's resume",
   "dependencies": {
-    "jsonresume-theme-elegant": "^1.11.2",
+    "jsonresume-theme-elegant": "^1.13.2",
     "jsonresume-theme-flat": "^0.3.7",
     "jsonresume-theme-paper": "^0.3.5",
-    "resume-cli": "^0.4.19",
-    "standard": "^11.0.1"
+    "resume-cli": "^1.2.7",
+    "standard": "^14.3.1"
   },
   "homepage": "https://github.com/alexander-matsievsky/resume#readme",
   "keywords": [
@@ -21,7 +21,8 @@
     "url": "git+https://github.com/alexander-matsievsky/resume.git"
   },
   "scripts": {
-    "export": "bash export.sh"
+    "export": "bash export.sh",
+    "lint": "npx standard --fix"
   },
   "version": "1.0.0"
 }
