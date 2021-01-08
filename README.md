@@ -1,5 +1,5 @@
-[[HTML version]](https://raw.githubusercontent.com/alexander-matsievsky/resume/master/assets/resume.html)
-[[PDF version]](https://raw.githubusercontent.com/alexander-matsievsky/resume/master/assets/resume.pdf)
+[[HTML version]](https://raw.githack.com/alexander-matsievsky/resume/master/assets/resume.html)
+[[PDF version]](https://raw.githack.com/alexander-matsievsky/resume/master/assets/resume.pdf)
 
 Alexander Matsievsky
 ====================
