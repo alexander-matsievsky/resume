@@ -10,7 +10,7 @@
     },
     "name": "Alexander Matsievsky",
     "phone": "+7 (925) 311-3856",
-    "picture": "https://raw.githubusercontent.com/alexander-matsievsky/resume/master/photo.jpg",
+    "picture": "https://raw.githubusercontent.com/alexander-matsievsky/resume/master/assets/photo.jpg",
     "profiles": [
       {
         "network": "GitHub",
@@ -28,7 +28,7 @@
         "username": "Alexander Matsievsky"
       }
     ],
-    "summary": "I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned full-stack web developer who've acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin."
+    "summary": "I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned full-stack web developer who's acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin."
   },
   "education": [
     {
@@ -36,45 +36,32 @@
       "endDate": "2011-06-01",
       "institution": "National Research Nuclear University",
       "startDate": "2006-06-01",
-      "studyType": "Specialist",
-      "_startDateFormatted": "Jun 2006",
-      "_endDateFormatted": "Jun 2011"
+      "studyType": "Specialist (MSc Computer Science equivalent)"
     },
     {
       "area": "System Analysis and Management",
       "endDate": "2013-06-01",
       "institution": "National Research Nuclear University",
       "startDate": "2010-06-01",
-      "studyType": "Specialist",
-      "_startDateFormatted": "Jun 2010",
-      "_endDateFormatted": "Jun 2013"
+      "studyType": "Specialist"
     }
   ],
   "interests": [
     {
       "keywords": [
-        "Data Science & Machine Learning",
-        "Data Visualization",
-        "PyData"
+        "Data Engineering",
+        "Data Science",
+        "Data Visualization"
       ],
       "name": "Short-term"
     },
     {
       "keywords": [
         "Graph Computing",
-        "Julia",
+        "Semantic Data Integration",
         "Stream Processing"
       ],
       "name": "Mid-term"
-    },
-    {
-      "keywords": [
-        "FPGA",
-        "Quantum computing",
-        "Semantic web",
-        "Visual programming"
-      ],
-      "name": "Long-term"
     }
   ],
   "languages": [
@@ -108,7 +95,9 @@
     },
     {
       "keywords": [
-        "Vega",
+        "Jupyter",
+        "Spark",
+        "altair",
         "pandas",
         "sklearn"
       ],
@@ -124,16 +113,11 @@
     },
     {
       "keywords": [
-        "Google Cloud Platform"
-      ],
-      "name": "Cloud"
-    },
-    {
-      "keywords": [
         "Docker",
+        "Google Cloud Platform",
         "Kubernetes"
       ],
-      "name": "Containers"
+      "name": "Cloud"
     },
     {
       "keywords": [
@@ -148,13 +132,17 @@
     {
       "company": "Scrapinghub",
       "highlights": [
-        "Design, develop and maintain Scrapy web crawlers"
+        "Python, Scrapy, Jupyter, pandas, sklearn, Spark, altair",
+        "Designed, developed and maintained Scrapy web crawlers",
+        "Reverse-engineered sites' JavaScript and network activity, e.g. SPAs, GraphQL, etc.",
+        "Performed an extensive analysis of the scraped data sets, including data visualization",
+        "Automated maintenance, monitoring and data quality assurance responsibilities",
+        "Researched and developed ML solutions, when needed"
       ],
       "position": "Python Developer",
       "startDate": "2018-08-01",
       "summary": "Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.",
-      "website": "https://scrapinghub.com",
-      "_startDateFormatted": "Aug 2018"
+      "website": "https://scrapinghub.com"
     },
     {
       "company": "Mr. Shoebox",
@@ -167,9 +155,7 @@
       "position": "Part-time Frontend Web Developer",
       "startDate": "2018-02-01",
       "summary": "Mr. Shoebox is a system that creates entirely new conditions for Entrepreneurs and bookkeeping agencies to communicate with each other quickly, clearly and easily.",
-      "website": "https://mrshoebox.com",
-      "_startDateFormatted": "Feb 2018",
-      "_endDateFormatted": "Dec 2019"
+      "website": "https://mrshoebox.com"
     },
     {
       "company": "Amperka",
@@ -184,9 +170,7 @@
       "position": "Back End Developer",
       "startDate": "2017-02-01",
       "summary": "Amperka is a company that helps beginners and non-professionals create their own electronic devices.",
-      "website": "http://amperka.ru",
-      "_startDateFormatted": "Feb 2017",
-      "_endDateFormatted": "Jan 2018"
+      "website": "http://amperka.ru"
     },
     {
       "company": "Grabr",
@@ -199,9 +183,7 @@
       "position": "Frontend Web Developer",
       "startDate": "2016-01-01",
       "summary": "A trusted peer-to-peer community marketplace connecting shoppers and travelers all around the world.",
-      "website": "https://grabr.io",
-      "_startDateFormatted": "Jan 2016",
-      "_endDateFormatted": "Jan 2017"
+      "website": "https://grabr.io"
     },
     {
       "company": "RCNTEC",
@@ -215,9 +197,7 @@
       "position": "Full Stack Engineer",
       "startDate": "2014-03-01",
       "summary": "RCNTEC ensures operation of telecommunication networks and information systems and helps hundreds of thousands of people all over the world work effectively.",
-      "website": "http://rcntec.com",
-      "_startDateFormatted": "Mar 2014",
-      "_endDateFormatted": "Dec 2015"
+      "website": "http://rcntec.com"
     },
     {
       "company": "Bookmate",
@@ -229,9 +209,7 @@
       "position": "Frontend Web Developer",
       "startDate": "2013-06-01",
       "summary": "Bookmate is a subscription based e-book service that makes reading accessible to anyone in the world with a mobile phone.",
-      "website": "https://bookmate.com",
-      "_startDateFormatted": "Jun 2013",
-      "_endDateFormatted": "Jan 2014"
+      "website": "https://bookmate.com"
     },
     {
       "company": "Gridnine Systems",
@@ -244,9 +222,7 @@
       "position": "Frontend Web Developer",
       "startDate": "2011-10-01",
       "summary": "Gridnine Systems is an IT consultancy providing software development, internet solutions and IT services.",
-      "website": "http://gridnine.com",
-      "_startDateFormatted": "Oct 2011",
-      "_endDateFormatted": "Jun 2013"
+      "website": "http://gridnine.com"
     }
   ]
 }
