@@ -4,8 +4,8 @@
 Alexander Matsievsky
 ====================
 
-Web Developer
--------------
+Software Engineer
+-----------------
 
 ### Contact
 
@@ -19,7 +19,7 @@ alexander.matsievsky@gmx.com
 
 ### About
 
-I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned full-stack web developer who's acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin.
+I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned software engineer who's acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin.
 
 ### Profiles
 
@@ -37,20 +37,36 @@ I was introduced to computing by a passionate educator in high school, and never
 
 ### Work
 
-#### Scrapinghub 2018-08-01 —
+#### Grid Dynamics 2020-04-01 —
 
-[https://scrapinghub.com](https://scrapinghub.com)
+[https://www.griddynamics.com](https://www.griddynamics.com)
+
+Big Data Developer
+
+We accelerate digital transformation of Fortune-1000 US enterprises. We bring deep expertise in customer experience, data analytics, and cloud, powered by top global engineering talent, lean software development practices, and a high-performance product culture.
+
+#### Highlights
+
+*   Java, Python, Jupyter, Spark, Airflow, AWS Data Analytics stack, Google Data Engineer stack
+*   Designed, developed and maintained data pipelines
+*   Performed an exploratory data analysis of the ingestion datasets, including data visualization
+*   Designed, developed and maintained back end of custom Business Intelligence dashboard
+*   Handled deployment and certain DevOps responsibilities
+
+#### Zyte 2018-08-01 —
+
+[https://www.zyte.com](https://www.zyte.com)
 
 Python Developer
 
-Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.
+For more than a decade, Zyte has led the way in building powerful, easy-to-use tools to collect, format, and deliver web data, quickly, dependably, and at scale. Today, over 3,000 companies and 1 million developers rely on our tools and services to get the data they need from the web.
 
 #### Highlights
 
 *   Python, Scrapy, Jupyter, pandas, sklearn, Spark, altair
 *   Designed, developed and maintained Scrapy web crawlers
 *   Reverse-engineered sites' JavaScript and network activity, e.g. SPAs, GraphQL, etc.
-*   Performed an extensive analysis of the scraped data sets, including data visualization
+*   Performed an extensive analysis of the scraped datasets, including data visualization
 *   Automated maintenance, monitoring and data quality assurance responsibilities
 *   Researched and developed ML solutions, when needed
 
@@ -158,17 +174,19 @@ Specialist
 
 #### Back End
 
+*   Java
 *   Node.js
+*   OpenAPI
 *   Python
-*   Swagger
 *   TypeScript
 
 #### Databases
 
-*   Elastic Search
+*   Elasticsearch
 *   Neo4j
 *   PostgreSQL
 *   RethinkDB
+*   SQLite
 
 #### Data Analysis
 
@@ -180,20 +198,23 @@ Specialist
 
 #### Front End
 
+*   Chrome Extensions
 *   D3
 *   React
 *   Vue.js
 
 #### Cloud
 
+*   Amazon Web Services
 *   Docker
 *   Google Cloud Platform
 *   Kubernetes
 
-#### Continuous Delivery
+#### Continuous Integration
 
 *   CircleCI
 *   Concourse
+*   Terraform
 *   Travis
 
 ### Languages
@@ -216,6 +237,6 @@ Native speaker
 
 #### Mid-term
 
+*   Artificial Intelligence and Machine Learning
 *   Graph Computing
 *   Semantic Data Integration
-*   Stream Processing
