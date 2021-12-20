@@ -1,7 +1,7 @@
 {
   "basics": {
     "email": "alexander.matsievsky@gmx.com",
-    "label": "Web Developer",
+    "label": "Software Engineer",
     "location": {
       "address": "Azovskaya str., bld. 24",
       "city": "Moscow",
@@ -28,7 +28,7 @@
         "username": "Alexander Matsievsky"
       }
     ],
-    "summary": "I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned full-stack web developer who's acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin."
+    "summary": "I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned software engineer who's acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin."
   },
   "education": [
     {
@@ -57,9 +57,9 @@
     },
     {
       "keywords": [
+        "Artificial Intelligence and Machine Learning",
         "Graph Computing",
-        "Semantic Data Integration",
-        "Stream Processing"
+        "Semantic Data Integration"
       ],
       "name": "Mid-term"
     }
@@ -77,19 +77,21 @@
   "skills": [
     {
       "keywords": [
+        "Java",
         "Node.js",
+        "OpenAPI",
         "Python",
-        "Swagger",
         "TypeScript"
       ],
       "name": "Back End"
     },
     {
       "keywords": [
-        "Elastic Search",
+        "Elasticsearch",
         "Neo4j",
         "PostgreSQL",
-        "RethinkDB"
+        "RethinkDB",
+        "SQLite"
       ],
       "name": "Databases"
     },
@@ -105,6 +107,7 @@
     },
     {
       "keywords": [
+        "Chrome Extensions",
         "D3",
         "React",
         "Vue.js"
@@ -113,6 +116,7 @@
     },
     {
       "keywords": [
+        "Amazon Web Services",
         "Docker",
         "Google Cloud Platform",
         "Kubernetes"
@@ -123,26 +127,41 @@
       "keywords": [
         "CircleCI",
         "Concourse",
+        "Terraform",
         "Travis"
       ],
-      "name": "Continuous Delivery"
+      "name": "Continuous Integration"
     }
   ],
   "work": [
     {
-      "company": "Scrapinghub",
+      "company": "Grid Dynamics",
+      "highlights": [
+        "Java, Python, Jupyter, Spark, Airflow, AWS Data Analytics stack, Google Data Engineer stack",
+        "Designed, developed and maintained data pipelines",
+        "Performed an exploratory data analysis of the ingestion datasets, including data visualization",
+        "Designed, developed and maintained back end of custom Business Intelligence dashboard",
+        "Handled deployment and certain DevOps responsibilities"
+      ],
+      "position": "Big Data Developer",
+      "startDate": "2021-04-01",
+      "summary": "We accelerate digital transformation of Fortune-1000 US enterprises. We bring deep expertise in customer experience, data analytics, and cloud, powered by top global engineering talent, lean software development practices, and a high-performance product culture.",
+      "website": "https://www.griddynamics.com"
+    },
+    {
+      "company": "Zyte",
       "highlights": [
         "Python, Scrapy, Jupyter, pandas, sklearn, Spark, altair",
         "Designed, developed and maintained Scrapy web crawlers",
         "Reverse-engineered sites' JavaScript and network activity, e.g. SPAs, GraphQL, etc.",
-        "Performed an extensive analysis of the scraped data sets, including data visualization",
+        "Performed an extensive analysis of the scraped datasets, including data visualization",
         "Automated maintenance, monitoring and data quality assurance responsibilities",
         "Researched and developed ML solutions, when needed"
       ],
       "position": "Python Developer",
       "startDate": "2018-08-01",
-      "summary": "Scrapinghub is a fast growing and diverse technology business turning web content into useful data with a cloud-based web crawling platform, off-the-shelf datasets, and turn-key web scraping services.",
-      "website": "https://scrapinghub.com"
+      "summary": "For more than a decade, Zyte has led the way in building powerful, easy-to-use tools to collect, format, and deliver web data, quickly, dependably, and at scale. Today, over 3,000 companies and 1 million developers rely on our tools and services to get the data they need from the web.",
+      "website": "https://www.zyte.com"
     },
     {
       "company": "Mr. Shoebox",
