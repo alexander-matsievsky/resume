@@ -3,7 +3,7 @@
 set -ex
 
 npx resume export --resume=assets/resume.json --theme=elegant assets/resume.html
-npx resume export --resume=assets/resume.json --theme=flat /tmp/README.html
+npx resume export --resume=assets/resume.json --theme=even /tmp/README.html
 npx resume export --resume=assets/resume.json --theme=paper assets/resume.pdf
 
 cat - <(

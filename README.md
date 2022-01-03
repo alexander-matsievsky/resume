@@ -7,168 +7,188 @@ Alexander Matsievsky
 Software Engineer
 -----------------
 
-### Contact
-
-**Email**
-
-alexander.matsievsky@gmx.com
-
-**Phone**
-
-+7 (925) 311-3856
-
-### About
-
 I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned software engineer who's acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin.
 
-### Profiles
-
-**GitHub**
-
-[alexander-matsievsky](https://github.com/alexander-matsievsky)
-
-**Telegram**
-
-[alexander\_matsievsky](https://t.me/alexander_matsievsky)
-
-**LinkedIn**
-
-[Alexander Matsievsky](https://www.linkedin.com/in/alexander-matsievsky-0193b4164)
+*   Moscow, Russia
+*   [alexander.matsievsky@gmx.com](mailto:alexander.matsievsky@gmx.com)
+*   [+7 (925) 311-3856](tel:+79253113856)
+*   [alexander-matsievsky](https://github.com/alexander-matsievsky) (GitHub)
+*   [alexander\_matsievsky](https://t.me/alexander_matsievsky) (Telegram)
+*   [Alexander Matsievsky](https://www.linkedin.com/in/alexander-matsievsky-0193b4164) (LinkedIn)
 
 ### Work
 
-#### Grid Dynamics 2021-04-01 —
+#### Big Data Developer
 
-[https://www.griddynamics.com](https://www.griddynamics.com)
+**[Grid Dynamics](https://www.griddynamics.com)**
 
-Big Data Developer
+Apr 2021 – Present
 
 We accelerate digital transformation of Fortune-1000 US enterprises. We bring deep expertise in customer experience, data analytics, and cloud, powered by top global engineering talent, lean software development practices, and a high-performance product culture.
 
-#### Highlights
-
 *   Java, Python, Jupyter, Spark, Airflow, AWS Data Analytics stack, Google Data Engineer stack
+    
 *   Designed, developed and maintained data pipelines
+    
 *   Performed an exploratory data analysis of the ingestion datasets, including data visualization
+    
 *   Designed, developed and maintained back end of custom Business Intelligence dashboard
+    
 *   Handled deployment and certain DevOps responsibilities
+    
 
-#### Zyte 2018-08-01 —
+#### Python Developer
 
-[https://www.zyte.com](https://www.zyte.com)
+**[Zyte](https://www.zyte.com)**
 
-Python Developer
+Aug 2018 – Present
 
 For more than a decade, Zyte has led the way in building powerful, easy-to-use tools to collect, format, and deliver web data, quickly, dependably, and at scale. Today, over 3,000 companies and 1 million developers rely on our tools and services to get the data they need from the web.
 
-#### Highlights
-
 *   Python, Scrapy, Jupyter, pandas, sklearn, Spark, altair
+    
 *   Designed, developed and maintained Scrapy web crawlers
+    
 *   Reverse-engineered sites' JavaScript and network activity, e.g. SPAs, GraphQL, etc.
+    
 *   Performed an extensive analysis of the scraped datasets, including data visualization
+    
 *   Automated maintenance, monitoring and data quality assurance responsibilities
+    
 *   Researched and developed ML solutions, when needed
+    
 
-#### Mr. Shoebox 2018-02-01 — 2019-12-01
+#### Part-time Frontend Web Developer
 
-[https://mrshoebox.com](https://mrshoebox.com)
+**[Mr. Shoebox](https://mrshoebox.com)**
 
-Part-time Frontend Web Developer
+Feb 2018 – Dec 2019
 
 Mr. Shoebox is a system that creates entirely new conditions for Entrepreneurs and bookkeeping agencies to communicate with each other quickly, clearly and easily.
 
-#### Highlights
-
 *   React, Redux, Go
+    
 *   Developed and maintained several React SPAs for accounting
+    
 *   Developed and maintained Go integration microservice
+    
 
-#### Amperka 2017-02-01 — 2018-01-01
+#### Back End Developer
 
-[http://amperka.ru](http://amperka.ru)
+**[Amperka](http://amperka.ru)**
 
-Back End Developer
+Feb 2017 – Jan 2018
 
 Amperka is a company that helps beginners and non-professionals create their own electronic devices.
 
-#### Highlights
-
 *   Node.js, Swagger, Neo4j, Kubernetes, Concourse
+    
 *   Worked on xod.io – a visual programming language for microcontrollers
+    
 *   Ruled over the entire back-end of the project
+    
 *   Cloud-native microservices and REST APIs
+    
 *   Cluster-wide CI/CD pipelines
+    
 
-#### Grabr 2016-01-01 — 2017-01-01
+#### Frontend Web Developer
 
-[https://grabr.io](https://grabr.io)
+**[Grabr](https://grabr.io)**
 
-Frontend Web Developer
+Jan 2016 – Jan 2017
 
 A trusted peer-to-peer community marketplace connecting shoppers and travelers all around the world.
 
-#### Highlights
-
 *   React, Redux
+    
 *   Developed and maintained an SSR SPA serving 100K MAU worldwide
+    
 *   Introduced Babel and PostCSS AST processing for the development pipeline
+    
 
-#### RCNTEC 2014-03-01 — 2015-12-01
+#### Full Stack Engineer
 
-[http://rcntec.com](http://rcntec.com)
+**[RCNTEC](http://rcntec.com)**
 
-Full Stack Engineer
+Mar 2014 – Dec 2015
 
 RCNTEC ensures operation of telecommunication networks and information systems and helps hundreds of thousands of people all over the world work effectively.
 
-#### Highlights
-
 *   D3.js, RxJS, OrientDB, Docker
+    
 *   Worked on an internal enterprise infrastructure management dashboard
+    
 *   Single-handedly designed and implemented back- and front-end components
+    
 *   Introduced containerization
+    
 
-#### Bookmate 2013-06-01 — 2014-01-01
+#### Frontend Web Developer
 
-[https://bookmate.com](https://bookmate.com)
+**[Bookmate](https://bookmate.com)**
 
-Frontend Web Developer
+Jun 2013 – Jan 2014
 
 Bookmate is a subscription based e-book service that makes reading accessible to anyone in the world with a mobile phone.
 
-#### Highlights
-
 *   Ruby on Rails, Backbone.js
+    
 *   Developed and optimized an EPUB-reader SPA serving 700K MAU worldwide
+    
 
-#### Gridnine Systems 2011-10-01 — 2013-06-01
+#### Frontend Web Developer
 
-[http://gridnine.com](http://gridnine.com)
+**[Gridnine Systems](http://gridnine.com)**
 
-Frontend Web Developer
+Oct 2011 – Jun 2013
 
 Gridnine Systems is an IT consultancy providing software development, internet solutions and IT services.
 
-#### Highlights
-
 *   Java, Backbone.js
+    
 *   Worked on pososhok.ru, one of the major Russian airline sales sites as a junior front-end developer
+    
 *   Automated bulk JSP i18n with Python-based pipeline
+    
 
 ### Education
 
-#### National Research Nuclear University 2006-06-01 — 2011-06-01
+#### National Research Nuclear University
 
-Applied Mathematics and Informatics
+**Applied Mathematics and Informatics**
+
+Jun 2006 – Jun 2011
 
 Specialist (MSc Computer Science equivalent)
 
-#### National Research Nuclear University 2010-06-01 — 2013-06-01
+#### National Research Nuclear University
 
-System Analysis and Management
+**System Analysis and Management**
+
+Jun 2010 – Jun 2013
 
 Specialist
+
+### Certificates
+
+#### [AWS Certified Data Analytics Specialty 2021 - Hands On!](https://www.udemy.com/certificate/UC-3875d021-795f-4b24-af1d-f9cc318dedeb/)
+
+Issued by **Udemy**
+
+Apr 2021
+
+#### [Preparing for Google Cloud Certification: Cloud Data Engineer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/KRZYUGUL9PMW)
+
+Issued by **Coursera**
+
+Nov 2021
+
+#### [Google Data Engineer Exam – Professional Certification Preparation](https://certificates.cloudacademy.com/2202551dfc77e018513d4165c4177ba0ce14933c.pdf)
+
+Issued by **Cloud Academy, Inc.**
+
+Dec 2021
 
 ### Skills
 
@@ -219,11 +239,11 @@ Specialist
 
 ### Languages
 
-**English**
+#### English
 
 Full professional proficiency
 
-**Russian**
+#### Russian
 
 Native speaker
 

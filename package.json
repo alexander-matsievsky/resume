@@ -2,7 +2,7 @@
   "author": "Alexander Matsievsky <alexander.matsievsky@gmx.com>",
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
-    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-even": "^0.16.1",
     "jsonresume-theme-paper": "^0.5.0",
     "resume-cli": "^3.0.5",
     "turndown": "^7.1.1"

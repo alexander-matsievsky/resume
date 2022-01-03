@@ -30,6 +30,26 @@
     ],
     "summary": "I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned software engineer who's acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin."
   },
+  "certificates": [
+    {
+      "date": "2021-04-16",
+      "issuer": "Udemy",
+      "name": "AWS Certified Data Analytics Specialty 2021 - Hands On!",
+      "url": "https://www.udemy.com/certificate/UC-3875d021-795f-4b24-af1d-f9cc318dedeb/"
+    },
+    {
+      "date": "2021-11-17",
+      "issuer": "Coursera",
+      "name": "Preparing for Google Cloud Certification: Cloud Data Engineer Specialization",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/KRZYUGUL9PMW"
+    },
+    {
+      "date": "2021-12-28",
+      "issuer": "Cloud Academy, Inc.",
+      "name": "Google Data Engineer Exam – Professional Certification Preparation",
+      "url": "https://certificates.cloudacademy.com/2202551dfc77e018513d4165c4177ba0ce14933c.pdf"
+    }
+  ],
   "education": [
     {
       "area": "Applied Mathematics and Informatics",
@@ -143,9 +163,11 @@
         "Designed, developed and maintained back end of custom Business Intelligence dashboard",
         "Handled deployment and certain DevOps responsibilities"
       ],
+      "name": "Grid Dynamics",
       "position": "Big Data Developer",
       "startDate": "2021-04-01",
       "summary": "We accelerate digital transformation of Fortune-1000 US enterprises. We bring deep expertise in customer experience, data analytics, and cloud, powered by top global engineering talent, lean software development practices, and a high-performance product culture.",
+      "url": "https://www.griddynamics.com",
       "website": "https://www.griddynamics.com"
     },
     {
@@ -158,9 +180,11 @@
         "Automated maintenance, monitoring and data quality assurance responsibilities",
         "Researched and developed ML solutions, when needed"
       ],
+      "name": "Zyte",
       "position": "Python Developer",
       "startDate": "2018-08-01",
       "summary": "For more than a decade, Zyte has led the way in building powerful, easy-to-use tools to collect, format, and deliver web data, quickly, dependably, and at scale. Today, over 3,000 companies and 1 million developers rely on our tools and services to get the data they need from the web.",
+      "url": "https://www.zyte.com",
       "website": "https://www.zyte.com"
     },
     {
@@ -171,9 +195,11 @@
         "Developed and maintained several React SPAs for accounting",
         "Developed and maintained Go integration microservice"
       ],
+      "name": "Mr. Shoebox",
       "position": "Part-time Frontend Web Developer",
       "startDate": "2018-02-01",
       "summary": "Mr. Shoebox is a system that creates entirely new conditions for Entrepreneurs and bookkeeping agencies to communicate with each other quickly, clearly and easily.",
+      "url": "https://mrshoebox.com",
       "website": "https://mrshoebox.com"
     },
     {
@@ -186,9 +212,11 @@
         "Cloud-native microservices and REST APIs",
         "Cluster-wide CI/CD pipelines"
       ],
+      "name": "Amperka",
       "position": "Back End Developer",
       "startDate": "2017-02-01",
       "summary": "Amperka is a company that helps beginners and non-professionals create their own electronic devices.",
+      "url": "http://amperka.ru",
       "website": "http://amperka.ru"
     },
     {
@@ -199,9 +227,11 @@
         "Developed and maintained an SSR SPA serving 100K MAU worldwide",
         "Introduced Babel and PostCSS AST processing for the development pipeline"
       ],
+      "name": "Grabr",
       "position": "Frontend Web Developer",
       "startDate": "2016-01-01",
       "summary": "A trusted peer-to-peer community marketplace connecting shoppers and travelers all around the world.",
+      "url": "https://grabr.io",
       "website": "https://grabr.io"
     },
     {
@@ -213,9 +243,11 @@
         "Single-handedly designed and implemented back- and front-end components",
         "Introduced containerization"
       ],
+      "name": "RCNTEC",
       "position": "Full Stack Engineer",
       "startDate": "2014-03-01",
       "summary": "RCNTEC ensures operation of telecommunication networks and information systems and helps hundreds of thousands of people all over the world work effectively.",
+      "url": "http://rcntec.com",
       "website": "http://rcntec.com"
     },
     {
@@ -225,9 +257,11 @@
         "Ruby on Rails, Backbone.js",
         "Developed and optimized an EPUB-reader SPA serving 700K MAU worldwide"
       ],
+      "name": "Bookmate",
       "position": "Frontend Web Developer",
       "startDate": "2013-06-01",
       "summary": "Bookmate is a subscription based e-book service that makes reading accessible to anyone in the world with a mobile phone.",
+      "url": "https://bookmate.com",
       "website": "https://bookmate.com"
     },
     {
@@ -238,9 +272,11 @@
         "Worked on pososhok.ru, one of the major Russian airline sales sites as a junior front-end developer",
         "Automated bulk JSP i18n with Python-based pipeline"
       ],
+      "name": "Gridnine Systems",
       "position": "Frontend Web Developer",
       "startDate": "2011-10-01",
       "summary": "Gridnine Systems is an IT consultancy providing software development, internet solutions and IT services.",
+      "url": "http://gridnine.com",
       "website": "http://gridnine.com"
     }
   ]
