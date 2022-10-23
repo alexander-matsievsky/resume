@@ -22,7 +22,7 @@ I was introduced to computing by a passionate educator in high school, and never
 
 **[Grid Dynamics](https://www.griddynamics.com)**
 
-Apr 2021 – Present
+Apr 2021 – Jul 2022
 
 We accelerate digital transformation of Fortune-1000 US enterprises. We bring deep expertise in customer experience, data analytics, and cloud, powered by top global engineering talent, lean software development practices, and a high-performance product culture.
 

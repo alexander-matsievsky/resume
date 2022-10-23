@@ -156,6 +156,7 @@
   "work": [
     {
       "company": "Grid Dynamics",
+      "endDate": "2022-07-01",
       "highlights": [
         "Java, Python, Jupyter, Spark, Airflow, AWS Data Analytics stack, Google Data Engineer stack",
         "Designed, developed and maintained data pipelines",
