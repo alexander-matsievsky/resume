@@ -1,11 +1,10 @@
 {
-  "author": "Alexander Matsievsky <alexander.matsievsky@gmx.com>",
+  "author": "Alexander Matsievsky <alexander.matsievsky@yandex.com>",
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
-    "jsonresume-theme-even": "^0.16.1",
+    "jsonresume-theme-even": "^0.22.0",
     "jsonresume-theme-paper": "^0.5.0",
-    "resume-cli": "^3.0.5",
-    "turndown": "^7.1.1"
+    "resume-cli": "^3.1.2"
   },
   "description": "Alexander Matsievsky's resume",
   "homepage": "https://github.com/alexander-matsievsky/resume#readme",

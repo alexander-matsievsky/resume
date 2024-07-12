@@ -1,6 +1,6 @@
 {
   "basics": {
-    "email": "alexander.matsievsky@gmx.com",
+    "email": "alexander.matsievsky@yandex.com",
     "label": "Software Engineer",
     "location": {
       "address": "Azovskaya str., bld. 24",
@@ -97,6 +97,7 @@
   "skills": [
     {
       "keywords": [
+        "Go",
         "Java",
         "Node.js",
         "OpenAPI",
@@ -108,6 +109,7 @@
     {
       "keywords": [
         "Elasticsearch",
+        "GraphDB",
         "Neo4j",
         "PostgreSQL",
         "RethinkDB",
@@ -117,9 +119,26 @@
     },
     {
       "keywords": [
-        "Jupyter",
+        "Scrapy"
+      ],
+      "name": "Data Collection"
+    },
+    {
+      "keywords": [
+        "BigQuery",
+        "dbt",
+        "Flink",
+        "Snowflake",
         "Spark",
+        "Trino"
+      ],
+      "name": "Data Processing"
+    },
+    {
+      "keywords": [
         "altair",
+        "DuckDB",
+        "Jupyter",
         "pandas",
         "sklearn"
       ],
@@ -127,9 +146,17 @@
     },
     {
       "keywords": [
+        "Grafana",
+        "Terraform"
+      ],
+      "name": "DevOps"
+    },
+    {
+      "keywords": [
         "Chrome Extensions",
         "D3",
         "React",
+        "RxJS",
         "Vue.js"
       ],
       "name": "Front End"
@@ -147,13 +174,29 @@
       "keywords": [
         "CircleCI",
         "Concourse",
-        "Terraform",
         "Travis"
       ],
       "name": "Continuous Integration"
     }
   ],
   "work": [
+    {
+      "company": "Cooper (formerly SberMarket)",
+      "highlights": [
+        "Scala, Python, Spark, Trino, dbt, Airflow, DataHub",
+        "Designed, developed and maintained data pipelines",
+        "Designed and developed the data systems PoCs",
+        "Supported and empowered ML engineers and analysts with data access and problem resolution",
+        "Improved the data governance practices with DataHub, Trino audit log and Airflow log mining",
+        "Troubleshooted the tricky low-level data infrastructure issues"
+      ],
+      "name": "Cooper (formerly SberMarket)",
+      "position": "Data Engineer",
+      "startDate": "2022-08-24",
+      "summary": "SberMarket is the #1 e-grocery company in Russia providing consumers and businesses with convenient same-day delivery and click-and-collect services. The company operates a proprietary technology platform, connecting retailers, consumer packaged goods companies, and customers.",
+      "url": "https://kuper.ru",
+      "website": "https://kuper.ru"
+    },
     {
       "company": "Grid Dynamics",
       "endDate": "2022-07-01",
@@ -172,7 +215,8 @@
       "website": "https://www.griddynamics.com"
     },
     {
-      "company": "Zyte",
+      "company": "Zyte (formerly Scrapinghub)",
+      "endDate": "2021-04-01",
       "highlights": [
         "Python, Scrapy, Jupyter, pandas, sklearn, Spark, altair",
         "Designed, developed and maintained Scrapy web crawlers",
@@ -181,8 +225,8 @@
         "Automated maintenance, monitoring and data quality assurance responsibilities",
         "Researched and developed ML solutions, when needed"
       ],
-      "name": "Zyte",
-      "position": "Python Developer",
+      "name": "Zyte (formerly Scrapinghub)",
+      "position": "Senior Python Developer",
       "startDate": "2018-08-01",
       "summary": "For more than a decade, Zyte has led the way in building powerful, easy-to-use tools to collect, format, and deliver web data, quickly, dependably, and at scale. Today, over 3,000 companies and 1 million developers rely on our tools and services to get the data they need from the web.",
       "url": "https://www.zyte.com",

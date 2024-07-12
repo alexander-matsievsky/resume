@@ -1,20 +1,18 @@
-name: resume
 channels:
-  - conda-forge
-  - defaults
+- conda-forge
+- defaults
 dependencies:
-  - _libgcc_mutex=0.1=conda_forge
-  - _openmp_mutex=4.5=1_gnu
-  - ca-certificates=2021.10.8=ha878542_0
-  - icu=69.1=h9c3ff4c_0
-  - jq=1.6=h36c2ea0_1000
-  - libgcc-ng=11.2.0=h1d223b6_11
-  - libgomp=11.2.0=h1d223b6_11
-  - libstdcxx-ng=11.2.0=he4da1e4_11
-  - libuv=1.42.0=h7f98852_0
-  - libzlib=1.2.11=h36c2ea0_1013
-  - nodejs=17.1.0=hb5e7134_2
-  - oniguruma=6.9.7.1=h7f98852_0
-  - openssl=3.0.0=h7f98852_2
-  - zlib=1.2.11=h36c2ea0_1013
-prefix: /home/alexander-matsievsky/.miniconda3/envs/resume
+- _libgcc_mutex=0.1=conda_forge
+- _openmp_mutex=4.5=2_gnu
+- ca-certificates=2024.7.4=hbcca054_0
+- icu=73.2=h59595ed_0
+- libgcc-ng=14.1.0=h77fa898_0
+- libgomp=14.1.0=h77fa898_0
+- libstdcxx-ng=14.1.0=hc0a3c3a_0
+- libuv=1.48.0=hd590300_0
+- libzlib=1.3.1=h4ab18f5_1
+- nodejs=22.4.1=h6d9b948_0
+- openssl=3.3.1=h4ab18f5_1
+- pandoc=3.2.1=ha770c72_0
+- zlib=1.3.1=h4ab18f5_1
+name: resume
