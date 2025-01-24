@@ -1,4 +1,4 @@
-[\[HTML version\]](https://raw.githack.com/alexander-matsievsky/resume/master/assets/resume.html) [\[PDF version\]](https://raw.githack.com/alexander-matsievsky/resume/master/assets/resume.pdf)
+[[HTML version]](https://raw.githack.com/alexander-matsievsky/resume/master/assets/resume.html) [[PDF version]](https://raw.githack.com/alexander-matsievsky/resume/master/assets/resume.pdf)
 
 # Alexander Matsievsky
 
@@ -6,24 +6,12 @@
 
 I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned software engineer who's acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin.
 
-- <img
-  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItbWFwLXBpbiI+PHBhdGggZD0iTTIxIDEwYzAgNy05IDEzLTkgMTNzLTktNi05LTEzYTkgOSAwIDAgMSAxOCAweiIgLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEwIiByPSIzIj48L2NpcmNsZT48L3N2Zz4="
-  class="feather feather-map-pin" /> Moscow, Russia
-- <img
-  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItbWFpbCI+PHBhdGggZD0iTTQgNGgxNmMxLjEgMCAyIC45IDIgMnYxMmMwIDEuMS0uOSAyLTIgMkg0Yy0xLjEgMC0yLS45LTItMlY2YzAtMS4xLjktMiAyLTJ6IiAvPjxwb2x5bGluZSBwb2ludHM9IjIyLDYgMTIsMTMgMiw2Ij48L3BvbHlsaW5lPjwvc3ZnPg=="
-  class="feather feather-mail" /> <alexander.matsievsky@yandex.com>
-- <img
-  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItcGhvbmUiPjxwYXRoIGQ9Ik0yMiAxNi45MnYzYTIgMiAwIDAgMS0yLjE4IDIgMTkuNzkgMTkuNzkgMCAwIDEtOC42My0zLjA3IDE5LjUgMTkuNSAwIDAgMS02LTYgMTkuNzkgMTkuNzkgMCAwIDEtMy4wNy04LjY3QTIgMiAwIDAgMSA0LjExIDJoM2EyIDIgMCAwIDEgMiAxLjcyIDEyLjg0IDEyLjg0IDAgMCAwIC43IDIuODEgMiAyIDAgMCAxLS40NSAyLjExTDguMDkgOS45MWExNiAxNiAwIDAgMCA2IDZsMS4yNy0xLjI3YTIgMiAwIDAgMSAyLjExLS40NSAxMi44NCAxMi44NCAwIDAgMCAyLjgxLjdBMiAyIDAgMCAxIDIyIDE2LjkyeiIgLz48L3N2Zz4="
-  class="feather feather-phone" /> [+7 (925) 311-3856](<tel:+7(925)311-3856>)
-- <img
-  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItZ2l0aHViIj48cGF0aCBkPSJNOSAxOWMtNSAxLjUtNS0yLjUtNy0zbTE0IDZ2LTMuODdhMy4zNyAzLjM3IDAgMCAwLS45NC0yLjYxYzMuMTQtLjM1IDYuNDQtMS41NCA2LjQ0LTdBNS40NCA1LjQ0IDAgMCAwIDIwIDQuNzcgNS4wNyA1LjA3IDAgMCAwIDE5LjkxIDFTMTguNzMuNjUgMTYgMi40OGExMy4zOCAxMy4zOCAwIDAgMC03IDBDNi4yNy42NSA1LjA5IDEgNS4wOSAxQTUuMDcgNS4wNyAwIDAgMCA1IDQuNzdhNS40NCA1LjQ0IDAgMCAwLTEuNSAzLjc4YzAgNS40MiAzLjMgNi42MSA2LjQ0IDdBMy4zNyAzLjM3IDAgMCAwIDkgMTguMTNWMjIiIC8+PC9zdmc+"
-  class="feather feather-github" /> [alexander-matsievsky](https://github.com/alexander-matsievsky) <span class="network">(GitHub)</span>
-- <img
-  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItdXNlciI+PHBhdGggZD0iTTIwIDIxdi0yYTQgNCAwIDAgMC00LTRIOGE0IDQgMCAwIDAtNCA0djIiIC8+PGNpcmNsZSBjeD0iMTIiIGN5PSI3IiByPSI0Ij48L2NpcmNsZT48L3N2Zz4="
-  class="feather feather-user" /> [alexander_matsievsky](https://t.me/alexander_matsievsky) <span class="network">(Telegram)</span>
-- <img
-  src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld2JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItbGlua2VkaW4iPjxwYXRoIGQ9Ik0xNiA4YTYgNiAwIDAgMSA2IDZ2N2gtNHYtN2EyIDIgMCAwIDAtMi0yIDIgMiAwIDAgMC0yIDJ2N2gtNHYtN2E2IDYgMCAwIDEgNi02eiIgLz48cmVjdCB4PSIyIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIgLz48Y2lyY2xlIGN4PSI0IiBjeT0iNCIgcj0iMiI+PC9jaXJjbGU+PC9zdmc+"
-  class="feather feather-linkedin" /> [Alexander Matsievsky](https://www.linkedin.com/in/alexander-matsievsky-0193b4164) <span class="network">(LinkedIn)</span>
+- Moscow, Russia
+- [alexander.matsievsky@yandex.com](mailto:alexander.matsievsky@yandex.com)
+- [+7 (925) 311-3856](<tel:+7(925)311-3856>)
+- [alexander-matsievsky](https://github.com/alexander-matsievsky) (GitHub)
+- [alexander_matsievsky](https://t.me/alexander_matsievsky) (Telegram)
+- [Alexander Matsievsky](https://www.linkedin.com/in/alexander-matsievsky-0193b4164) (LinkedIn)
 
 ### Work
 
@@ -31,7 +19,7 @@ I was introduced to computing by a passionate educator in high school, and never
 
 ##### Data Engineer
 
-Aug 2022 – Present
+Aug 2022 – Oct 2024
 
 SberMarket is the #1 e-grocery company in Russia providing consumers and businesses with convenient same-day delivery and click-and-collect services. The company operates a proprietary technology platform, connecting retailers, consumer packaged goods companies, and customers.
 
@@ -211,21 +199,40 @@ Issued by **Cloud Academy, Inc.**
 
 Dec 2021
 
+#### [dbt Learn – dbt Fundamentals](https://www.credential.net/4dc6983e-5e9d-4f22-ae78-9698482e7e33#acc.Pcks2B3a)
+
+Issued by **dbt Labs, Inc.**
+
+Apr 2023
+
+#### [Dagster University – Dagster Essentials](https://courses.dagster.io/certificates/ecaly1gf2k)
+
+Issued by **Elementl, Inc.**
+
+Sep 2024
+
+#### [Dagster University – Dagster & dbt](https://courses.dagster.io/certificates/zqsza6r0ls)
+
+Issued by **Elementl, Inc.**
+
+Sep 2024
+
 ### Skills
 
 #### Back End
 
+- Deno
 - Go
 - Java
 - Node.js
 - OpenAPI
 - Python
-- TypeScript
 
 #### Databases
 
 - Elasticsearch
 - GraphDB
+- MySQL
 - Neo4j
 - PostgreSQL
 - RethinkDB
@@ -233,13 +240,16 @@ Dec 2021
 
 #### Data Collection
 
+- dlt
 - Scrapy
 
 #### Data Processing
 
 - BigQuery
+- Dagster
 - dbt
 - Flink
+- RDF
 - Snowflake
 - Spark
 - Trino

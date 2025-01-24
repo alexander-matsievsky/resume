@@ -48,6 +48,24 @@
       "issuer": "Cloud Academy, Inc.",
       "name": "Google Data Engineer Exam – Professional Certification Preparation",
       "url": "https://certificates.cloudacademy.com/2202551dfc77e018513d4165c4177ba0ce14933c.pdf"
+    },
+    {
+      "date": "2023-04-09",
+      "issuer": "dbt Labs, Inc.",
+      "name": "dbt Learn – dbt Fundamentals",
+      "url": "https://www.credential.net/4dc6983e-5e9d-4f22-ae78-9698482e7e33#acc.Pcks2B3a"
+    },
+    {
+      "date": "2024-09-22",
+      "issuer": "Elementl, Inc.",
+      "name": "Dagster University – Dagster Essentials",
+      "url": "https://courses.dagster.io/certificates/ecaly1gf2k"
+    },
+    {
+      "date": "2024-09-25",
+      "issuer": "Elementl, Inc.",
+      "name": "Dagster University – Dagster & dbt",
+      "url": "https://courses.dagster.io/certificates/zqsza6r0ls"
     }
   ],
   "education": [
@@ -97,12 +115,12 @@
   "skills": [
     {
       "keywords": [
+        "Deno",
         "Go",
         "Java",
         "Node.js",
         "OpenAPI",
-        "Python",
-        "TypeScript"
+        "Python"
       ],
       "name": "Back End"
     },
@@ -110,6 +128,7 @@
       "keywords": [
         "Elasticsearch",
         "GraphDB",
+        "MySQL",
         "Neo4j",
         "PostgreSQL",
         "RethinkDB",
@@ -119,6 +138,7 @@
     },
     {
       "keywords": [
+        "dlt",
         "Scrapy"
       ],
       "name": "Data Collection"
@@ -126,8 +146,10 @@
     {
       "keywords": [
         "BigQuery",
+        "Dagster",
         "dbt",
         "Flink",
+        "RDF",
         "Snowflake",
         "Spark",
         "Trino"
@@ -182,6 +204,7 @@
   "work": [
     {
       "company": "Cooper (formerly SberMarket)",
+      "endDate": "2024-10-24",
       "highlights": [
         "Scala, Python, Spark, Trino, dbt, Airflow, DataHub",
         "Designed, developed and maintained data pipelines",

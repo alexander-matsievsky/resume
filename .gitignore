@@ -1,1 +1,14 @@
-node_modules
+*
+!assets
+!assets/photo.jpg
+!assets/resume.html
+!assets/resume.json
+!assets/resume.pdf
+!deno.json
+!deno.lock
+!environment.yml
+!.gitignore
+!LICENSE
+!main.ts
+!package.json
+!README.md
