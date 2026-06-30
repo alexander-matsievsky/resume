@@ -1,21 +1,41 @@
-[[HTML version]](https://raw.githack.com/alexander-matsievsky/resume/master/assets/resume.html) [[PDF version]](https://raw.githack.com/alexander-matsievsky/resume/master/assets/resume.pdf)
+[\[HTML version\]](https://raw.githack.com/alexander-matsievsky/resume/master/assets/resume.html) [\[PDF version\]](https://raw.githack.com/alexander-matsievsky/resume/master/assets/resume.pdf)
 
 # Alexander Matsievsky
 
-## Software Engineer
+## Data/Software Engineer
 
-I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned software engineer who's acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin.
+I was introduced to computing by a passionate educator in high school, and never looked back. Two decades later, I am a seasoned software engineer who's acquired a wide range of skills while bringing people's ideas to life through code. My professional goal is to broaden my expertise with every groundbreaking technology I can get my hands on, without falling into amateurism or spreading too thin.
 
 - Moscow, Russia
 - [alexander.matsievsky@yandex.com](mailto:alexander.matsievsky@yandex.com)
-- [+7 (925) 311-3856](<tel:+7(925)311-3856>)
+- [+7 (925) 311-3856](tel:+7(925)311-3856)
 - [alexander-matsievsky](https://github.com/alexander-matsievsky) (GitHub)
-- [alexander_matsievsky](https://t.me/alexander_matsievsky) (Telegram)
+- [alexander\_matsievsky](https://t.me/alexander_matsievsky) (Telegram)
 - [Alexander Matsievsky](https://www.linkedin.com/in/alexander-matsievsky-0193b4164) (LinkedIn)
 
 ### Work
 
-#### [Cooper (formerly SberMarket)](https://kuper.ru)
+#### [Zyte](https://www.zyte.com)
+
+##### Antiban Engineer
+
+Nov 2024 – Jun 2026
+
+We offer reliable web data extraction with an array of products, including proxy management, data APIs, data services, and developer tools.
+
+- **Tech:** Python, Scrapy, DuckDB, k6, Grafana, HTTP Toolkit, Jupyter
+
+- Fine-tuned the company's flagship Zyte API product
+
+- Investigated anti-bot circumvention strategies for internal and external clients
+
+- Reverse-engineered websites' JavaScript and network activity, e.g. SPAs, GraphQL, etc.
+
+- Implemented the observability layer for product performance and team operational activity
+
+- Automated the operational workflow and the related aspects
+
+#### [Kuper](https://kuper.ru)
 
 ##### Data Engineer
 
@@ -23,7 +43,7 @@ Aug 2022 – Oct 2024
 
 SberMarket is the #1 e-grocery company in Russia providing consumers and businesses with convenient same-day delivery and click-and-collect services. The company operates a proprietary technology platform, connecting retailers, consumer packaged goods companies, and customers.
 
-- Scala, Python, Spark, Trino, dbt, Airflow, DataHub
+- **Tech:** Scala, Python, Spark, Trino, dbt, Airflow, DataHub
 
 - Designed, developed and maintained data pipelines
 
@@ -33,7 +53,7 @@ SberMarket is the #1 e-grocery company in Russia providing consumers and busines
 
 - Improved the data governance practices with DataHub, Trino audit log and Airflow log mining
 
-- Troubleshooted the tricky low-level data infrastructure issues
+- Troubleshoot the tricky low-level data infrastructure issues
 
 #### [Grid Dynamics](https://www.griddynamics.com)
 
@@ -43,7 +63,7 @@ Apr 2021 – Jul 2022
 
 We accelerate digital transformation of Fortune-1000 US enterprises. We bring deep expertise in customer experience, data analytics, and cloud, powered by top global engineering talent, lean software development practices, and a high-performance product culture.
 
-- Java, Python, Jupyter, Spark, Airflow, AWS Data Analytics stack, Google Data Engineer stack
+- **Tech:** Java, Python, Jupyter, Spark, Airflow, AWS Data Analytics stack, Google Data Engineer stack
 
 - Designed, developed and maintained data pipelines
 
@@ -53,23 +73,23 @@ We accelerate digital transformation of Fortune-1000 US enterprises. We bring de
 
 - Handled deployment and certain DevOps responsibilities
 
-#### [Zyte (formerly Scrapinghub)](https://www.zyte.com)
+#### [Scrapinghub](https://scrapinghub.com)
 
 ##### Senior Python Developer
 
 Aug 2018 – Apr 2021
 
-For more than a decade, Zyte has led the way in building powerful, easy-to-use tools to collect, format, and deliver web data, quickly, dependably, and at scale. Today, over 3,000 companies and 1 million developers rely on our tools and services to get the data they need from the web.
+Scrapinghub is a company that provides web crawling solutions, including a platform for running crawlers, a tool for building scrapers visually, data feed providers (DaaS) and a consulting team to help startups and enterprises build and maintain their web crawling infrastructures.
 
-- Python, Scrapy, Jupyter, pandas, sklearn, Spark, altair
+- **Tech:** Python, Scrapy, Jupyter, pandas, sklearn, Spark, altair
 
 - Designed, developed and maintained Scrapy web crawlers
 
-- Reverse-engineered sites' JavaScript and network activity, e.g. SPAs, GraphQL, etc.
+- Reverse-engineered websites' JavaScript and network activity, e.g. SPAs, GraphQL, etc.
 
 - Performed an extensive analysis of the scraped datasets, including data visualization
 
-- Automated maintenance, monitoring and data quality assurance responsibilities
+- Automated maintenance, monitoring and data quality assurance tasks
 
 - Researched and developed ML solutions, when needed
 
@@ -81,7 +101,7 @@ Feb 2018 – Dec 2019
 
 Mr. Shoebox is a system that creates entirely new conditions for Entrepreneurs and bookkeeping agencies to communicate with each other quickly, clearly and easily.
 
-- React, Redux, Go
+- **Tech:** React, Redux, Go
 
 - Developed and maintained several React SPAs for accounting
 
@@ -95,11 +115,11 @@ Feb 2017 – Jan 2018
 
 Amperka is a company that helps beginners and non-professionals create their own electronic devices.
 
-- Node.js, Swagger, Neo4j, Kubernetes, Concourse
+- **Tech:** Node.js, Swagger, Neo4j, Kubernetes, Concourse
 
 - Worked on xod.io – a visual programming language for microcontrollers
 
-- Ruled over the entire back-end of the project
+- Oversaw the entire back-end of the project
 
 - Cloud-native microservices and REST APIs
 
@@ -113,7 +133,7 @@ Jan 2016 – Jan 2017
 
 A trusted peer-to-peer community marketplace connecting shoppers and travelers all around the world.
 
-- React, Redux
+- **Tech:** React, Redux
 
 - Developed and maintained an SSR SPA serving 100K MAU worldwide
 
@@ -127,7 +147,7 @@ Mar 2014 – Dec 2015
 
 RCNTEC ensures operation of telecommunication networks and information systems and helps hundreds of thousands of people all over the world work effectively.
 
-- D3.js, RxJS, OrientDB, Docker
+- **Tech:** D3.js, RxJS, OrientDB, Docker
 
 - Worked on an internal enterprise infrastructure management dashboard
 
@@ -143,7 +163,7 @@ Jun 2013 – Jan 2014
 
 Bookmate is a subscription based e-book service that makes reading accessible to anyone in the world with a mobile phone.
 
-- Ruby on Rails, Backbone.js
+- **Tech:** Ruby on Rails, Backbone.js
 
 - Developed and optimized an EPUB-reader SPA serving 700K MAU worldwide
 
@@ -155,7 +175,7 @@ Oct 2011 – Jun 2013
 
 Gridnine Systems is an IT consultancy providing software development, internet solutions and IT services.
 
-- Java, Backbone.js
+- **Tech:** Java, Backbone.js
 
 - Worked on pososhok.ru, one of the major Russian airline sales sites as a junior front-end developer
 
@@ -228,30 +248,36 @@ Sep 2024
 - OpenAPI
 - Python
 
-#### Databases
-
-- Elasticsearch
-- GraphDB
-- MySQL
-- Neo4j
-- PostgreSQL
-- RethinkDB
-- SQLite
-
 #### Data Collection
 
 - dlt
 - Scrapy
 
+#### Data Storage
+
+- Elasticsearch
+- GraphDB
+- Iceberg
+- RDF
+- Kafka
+- MySQL
+- NATS
+- Neo4j
+- PostgreSQL
+- Redpanda
+- RethinkDB
+- SQLite
+
 #### Data Processing
 
+- Bento
 - BigQuery
 - Dagster
 - dbt
 - Flink
-- RDF
 - Snowflake
 - Spark
+- SPARQL
 - Trino
 
 #### Data Analysis
@@ -262,15 +288,11 @@ Sep 2024
 - pandas
 - sklearn
 
-#### DevOps
-
-- Grafana
-- Terraform
-
 #### Front End
 
 - Chrome Extensions
 - D3
+- Lit
 - React
 - RxJS
 - Vue.js
@@ -282,11 +304,19 @@ Sep 2024
 - Google Cloud Platform
 - Kubernetes
 
+#### DevOps
+
+- Ansible
+- Grafana
+- Pulumi
+- Terraform
+
 #### Continuous Integration
 
+- Bitbucket Pipelines
 - CircleCI
 - Concourse
-- Travis
+- GitHub Actions
 
 ### Languages
 

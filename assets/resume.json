@@ -1,7 +1,7 @@
 {
   "basics": {
     "email": "alexander.matsievsky@yandex.com",
-    "label": "Software Engineer",
+    "label": "Data/Software Engineer",
     "location": {
       "address": "Azovskaya str., bld. 24",
       "city": "Moscow",
@@ -28,7 +28,7 @@
         "username": "Alexander Matsievsky"
       }
     ],
-    "summary": "I was introduced to computing by a passionate educator in high school, and never looked back. A decade later, I am a seasoned software engineer who's acquired a wide range of skills while carving people ideas in code. My professional ambitions lay in broadening my expertise with every groundbreaking technology I can get my hands on, without amateurism or spreading too thin."
+    "summary": "I was introduced to computing by a passionate educator in high school, and never looked back. Two decades later, I am a seasoned software engineer who's acquired a wide range of skills while bringing people's ideas to life through code. My professional goal is to broaden my expertise with every groundbreaking technology I can get my hands on, without falling into amateurism or spreading too thin."
   },
   "certificates": [
     {
@@ -126,18 +126,6 @@
     },
     {
       "keywords": [
-        "Elasticsearch",
-        "GraphDB",
-        "MySQL",
-        "Neo4j",
-        "PostgreSQL",
-        "RethinkDB",
-        "SQLite"
-      ],
-      "name": "Databases"
-    },
-    {
-      "keywords": [
         "dlt",
         "Scrapy"
       ],
@@ -145,13 +133,31 @@
     },
     {
       "keywords": [
+        "Elasticsearch",
+        "GraphDB",
+        "Iceberg",
+        "RDF",
+        "Kafka",
+        "MySQL",
+        "NATS",
+        "Neo4j",
+        "PostgreSQL",
+        "Redpanda",
+        "RethinkDB",
+        "SQLite"
+      ],
+      "name": "Data Storage"
+    },
+    {
+      "keywords": [
+        "Bento",
         "BigQuery",
         "Dagster",
         "dbt",
         "Flink",
-        "RDF",
         "Snowflake",
         "Spark",
+        "SPARQL",
         "Trino"
       ],
       "name": "Data Processing"
@@ -168,15 +174,9 @@
     },
     {
       "keywords": [
-        "Grafana",
-        "Terraform"
-      ],
-      "name": "DevOps"
-    },
-    {
-      "keywords": [
         "Chrome Extensions",
         "D3",
+        "Lit",
         "React",
         "RxJS",
         "Vue.js"
@@ -194,26 +194,54 @@
     },
     {
       "keywords": [
+        "Ansible",
+        "Grafana",
+        "Pulumi",
+        "Terraform"
+      ],
+      "name": "DevOps"
+    },
+    {
+      "keywords": [
+        "Bitbucket Pipelines",
         "CircleCI",
         "Concourse",
-        "Travis"
+        "GitHub Actions"
       ],
       "name": "Continuous Integration"
     }
   ],
   "work": [
     {
-      "company": "Cooper (formerly SberMarket)",
+      "company": "Zyte",
+      "endDate": "2026-06-26",
+      "highlights": [
+        "**Tech:** Python, Scrapy, DuckDB, k6, Grafana, HTTP Toolkit, Jupyter",
+        "Fine-tuned the company's flagship Zyte API product",
+        "Investigated anti-bot circumvention strategies for internal and external clients",
+        "Reverse-engineered websites' JavaScript and network activity, e.g. SPAs, GraphQL, etc.",
+        "Implemented the observability layer for product performance and team operational activity",
+        "Automated the operational workflow and the related aspects"
+      ],
+      "name": "Zyte",
+      "position": "Antiban Engineer",
+      "startDate": "2024-11-11",
+      "summary": "We offer reliable web data extraction with an array of products, including proxy management, data APIs, data services, and developer tools.",
+      "url": "https://www.zyte.com",
+      "website": "https://www.zyte.com"
+    },
+    {
+      "company": "Kuper",
       "endDate": "2024-10-24",
       "highlights": [
-        "Scala, Python, Spark, Trino, dbt, Airflow, DataHub",
+        "**Tech:** Scala, Python, Spark, Trino, dbt, Airflow, DataHub",
         "Designed, developed and maintained data pipelines",
         "Designed and developed the data systems PoCs",
         "Supported and empowered ML engineers and analysts with data access and problem resolution",
         "Improved the data governance practices with DataHub, Trino audit log and Airflow log mining",
-        "Troubleshooted the tricky low-level data infrastructure issues"
+        "Troubleshoot the tricky low-level data infrastructure issues"
       ],
-      "name": "Cooper (formerly SberMarket)",
+      "name": "Kuper",
       "position": "Data Engineer",
       "startDate": "2022-08-24",
       "summary": "SberMarket is the #1 e-grocery company in Russia providing consumers and businesses with convenient same-day delivery and click-and-collect services. The company operates a proprietary technology platform, connecting retailers, consumer packaged goods companies, and customers.",
@@ -224,7 +252,7 @@
       "company": "Grid Dynamics",
       "endDate": "2022-07-01",
       "highlights": [
-        "Java, Python, Jupyter, Spark, Airflow, AWS Data Analytics stack, Google Data Engineer stack",
+        "**Tech:** Java, Python, Jupyter, Spark, Airflow, AWS Data Analytics stack, Google Data Engineer stack",
         "Designed, developed and maintained data pipelines",
         "Performed an exploratory data analysis of the ingestion datasets, including data visualization",
         "Designed, developed and maintained back end of custom Business Intelligence dashboard",
@@ -238,28 +266,28 @@
       "website": "https://www.griddynamics.com"
     },
     {
-      "company": "Zyte (formerly Scrapinghub)",
+      "company": "Scrapinghub",
       "endDate": "2021-04-01",
       "highlights": [
-        "Python, Scrapy, Jupyter, pandas, sklearn, Spark, altair",
+        "**Tech:** Python, Scrapy, Jupyter, pandas, sklearn, Spark, altair",
         "Designed, developed and maintained Scrapy web crawlers",
-        "Reverse-engineered sites' JavaScript and network activity, e.g. SPAs, GraphQL, etc.",
+        "Reverse-engineered websites' JavaScript and network activity, e.g. SPAs, GraphQL, etc.",
         "Performed an extensive analysis of the scraped datasets, including data visualization",
-        "Automated maintenance, monitoring and data quality assurance responsibilities",
+        "Automated maintenance, monitoring and data quality assurance tasks",
         "Researched and developed ML solutions, when needed"
       ],
-      "name": "Zyte (formerly Scrapinghub)",
+      "name": "Scrapinghub",
       "position": "Senior Python Developer",
       "startDate": "2018-08-01",
-      "summary": "For more than a decade, Zyte has led the way in building powerful, easy-to-use tools to collect, format, and deliver web data, quickly, dependably, and at scale. Today, over 3,000 companies and 1 million developers rely on our tools and services to get the data they need from the web.",
-      "url": "https://www.zyte.com",
-      "website": "https://www.zyte.com"
+      "summary": "Scrapinghub is a company that provides web crawling solutions, including a platform for running crawlers, a tool for building scrapers visually, data feed providers (DaaS) and a consulting team to help startups and enterprises build and maintain their web crawling infrastructures.",
+      "url": "https://scrapinghub.com",
+      "website": "https://scrapinghub.com"
     },
     {
       "company": "Mr. Shoebox",
       "endDate": "2019-12-01",
       "highlights": [
-        "React, Redux, Go",
+        "**Tech:** React, Redux, Go",
         "Developed and maintained several React SPAs for accounting",
         "Developed and maintained Go integration microservice"
       ],
@@ -274,9 +302,9 @@
       "company": "Amperka",
       "endDate": "2018-01-01",
       "highlights": [
-        "Node.js, Swagger, Neo4j, Kubernetes, Concourse",
+        "**Tech:** Node.js, Swagger, Neo4j, Kubernetes, Concourse",
         "Worked on xod.io – a visual programming language for microcontrollers",
-        "Ruled over the entire back-end of the project",
+        "Oversaw the entire back-end of the project",
         "Cloud-native microservices and REST APIs",
         "Cluster-wide CI/CD pipelines"
       ],
@@ -291,7 +319,7 @@
       "company": "Grabr",
       "endDate": "2017-01-01",
       "highlights": [
-        "React, Redux",
+        "**Tech:** React, Redux",
         "Developed and maintained an SSR SPA serving 100K MAU worldwide",
         "Introduced Babel and PostCSS AST processing for the development pipeline"
       ],
@@ -306,7 +334,7 @@
       "company": "RCNTEC",
       "endDate": "2015-12-01",
       "highlights": [
-        "D3.js, RxJS, OrientDB, Docker",
+        "**Tech:** D3.js, RxJS, OrientDB, Docker",
         "Worked on an internal enterprise infrastructure management dashboard",
         "Single-handedly designed and implemented back- and front-end components",
         "Introduced containerization"
@@ -322,7 +350,7 @@
       "company": "Bookmate",
       "endDate": "2014-01-01",
       "highlights": [
-        "Ruby on Rails, Backbone.js",
+        "**Tech:** Ruby on Rails, Backbone.js",
         "Developed and optimized an EPUB-reader SPA serving 700K MAU worldwide"
       ],
       "name": "Bookmate",
@@ -336,7 +364,7 @@
       "company": "Gridnine Systems",
       "endDate": "2013-06-01",
       "highlights": [
-        "Java, Backbone.js",
+        "**Tech:** Java, Backbone.js",
         "Worked on pososhok.ru, one of the major Russian airline sales sites as a junior front-end developer",
         "Automated bulk JSP i18n with Python-based pipeline"
       ],
